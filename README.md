@@ -7,8 +7,8 @@ This database was made for a database class.
 It was a team effort, and I do not take full credit for the work.
 
 Contributers include:
-  Logan Stark 
-  William Souraphath
-  Wensen Tang
-  Parvez Sayani
-  Hector Silva - Team Leader
+  -Logan Stark 
+  -William Souraphath
+  -Wensen Tang
+  -Parvez Sayani
+  -Hector Silva - Team Leader
