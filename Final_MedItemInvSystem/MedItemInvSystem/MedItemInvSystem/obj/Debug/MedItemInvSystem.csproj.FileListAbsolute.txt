@@ -1,0 +1,39 @@
+C:\Users\Logan Stark\My Code\cpp\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.dll
+C:\Users\Logan Stark\My Code\cpp\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.pdb
+C:\Users\Logan Stark\My Code\cpp\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.csprojResolveAssemblyReference.cache
+C:\Users\Logan Stark\My Code\cpp\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.dll
+C:\Users\Logan Stark\My Code\cpp\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.pdb
+C:\Users\William.William-PC\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.dll
+C:\Users\William.William-PC\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.pdb
+C:\Users\William.William-PC\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.csprojResolveAssemblyReference.cache
+C:\Users\William.William-PC\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.dll
+C:\Users\William.William-PC\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.pdb
+C:\Users\Logan Stark\My Code\DatabaseProject\DatabaseSystem\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.dll
+C:\Users\Logan Stark\My Code\DatabaseProject\DatabaseSystem\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.pdb
+C:\Users\Logan Stark\My Code\DatabaseProject\DatabaseSystem\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.csprojResolveAssemblyReference.cache
+C:\Users\Logan Stark\My Code\DatabaseProject\DatabaseSystem\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.dll
+C:\Users\Logan Stark\My Code\DatabaseProject\DatabaseSystem\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.pdb
+C:\Users\William\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.dll
+C:\Users\William\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.pdb
+C:\Users\William\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.dll
+C:\Users\William\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.pdb
+C:\Users\William\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MySql.Data.Entity.EF6.dll
+C:\Users\William\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MySql.Fabric.Plugin.dll
+C:\Users\William.William-PC\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MySql.Data.Entity.EF6.dll
+C:\Users\William.William-PC\Documents\Visual Studio 2010\Projects\MedItemInvSystem\MedItemInvSystem\bin\MySql.Fabric.Plugin.dll
+C:\Users\June\Downloads\MedItemInvSystem (2)\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.dll
+C:\Users\June\Downloads\MedItemInvSystem (2)\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.pdb
+C:\Users\June\Downloads\MedItemInvSystem (2)\MedItemInvSystem\MedItemInvSystem\bin\MySql.Data.Entity.EF6.dll
+C:\Users\June\Downloads\MedItemInvSystem (2)\MedItemInvSystem\MedItemInvSystem\bin\MySql.Fabric.Plugin.dll
+C:\Users\June\Downloads\MedItemInvSystem (2)\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.csprojResolveAssemblyReference.cache
+C:\Users\June\Downloads\MedItemInvSystem (2)\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.dll
+C:\Users\June\Downloads\MedItemInvSystem (2)\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.pdb
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.dll
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\bin\MedItemInvSystem.pdb
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\bin\MySql.Data.Entity.dll
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\bin\MySql.Fabric.Plugin.dll
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.csprojResolveAssemblyReference.cache
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.dll
+C:\Users\Gateway\Desktop\MedItemInvSystem\MedItemInvSystem\obj\Debug\MedItemInvSystem.pdb

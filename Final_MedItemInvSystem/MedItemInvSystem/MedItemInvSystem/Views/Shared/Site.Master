@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <link href="../../Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="../../Content/med13logo.png" rel="icon" type="image/x-icon" />
+</head>
+
+<body>
+
+        <div id="header">
+            <div id="logo">
+                <a href="/" title="Home">
+                    <img alt="M13" src="../../Content/med13logo.png" style="width:65px;height:65px;"/>
+                </a>
+            </div>
+            <h1 id="site-title">
+               Team 13 Medical Inventory
+            </h1>
+              
+            <div id="logindisplay">
+                <%  Html.RenderPartial("EmployeeClassification");  %>
+            </div> 
+            
+            
+            <div class="hlist" id="menucontainer">
+                <ul id="menu">              
+                    <li><%: Html.ActionLink("Home", "Index", "Home")%></li>
+                    <li><%: Html.ActionLink("About", "About", "Home")%></li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="main" style="margin:1.76%;">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />  
+        </div>
+        <div id="footer">
+            <div id="copyright">
+                <p class="copyright">Copyright ©  Medical Team 13,  2015 </p>
+                <p style="color:#0dbd83">WE DO NOT OWN ANY OF THIS. <br /> THE SCHOOL DOES</p>
+            </div>
+        </div>
+</body>
+</html>
